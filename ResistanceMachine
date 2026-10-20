@@ -1,0 +1,19 @@
+using Equipment;
+
+public class ResistanceMachine
+{
+	public ResistanceMachine()
+	{
+		private int wieghtStackMax;
+
+    public int EquipmentId
+    {
+        get { return weightStackMax; }
+        set { weightStackMax = value; }
+    }
+    {
+    public ResistanceMachine base()(int weightStackMax)
+    {
+       WeightStackMax = weightStackMax;
+    }
+}
